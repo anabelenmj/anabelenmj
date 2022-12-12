@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ana Belén</h1>
 <h3 align="center">Junior Frontend Developer</h3>
 
-- 💬 Ask me about **html,css y javascript**
+- 🌱 I’m currently learning **Javascript**
+
+- 💬 Ask me about **html, css y javascript**
 
 - 📫 How to reach me **anabelen.madrid99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/anabelenmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anabelenmj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
