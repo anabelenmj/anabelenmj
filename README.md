@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ana Belén</h1>
 <h3 align="center">Junior Frontend Developer</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 Currently learning **C and react**
 
 - 💬 Ask me about **html, css y javascript**
 
