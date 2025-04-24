@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ana Belén (eiby)</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🌱 I’m currently learning **React and C**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **anabelen.madrid99@gmail.com**
 
